@@ -138,9 +138,5 @@ function createDepartment() {
 init();
 
 // HAVE AN ISSUE WITH THE "?" IN THE MYSQL STATEMENT
+// I'm not able to get any of the "?" to work.. hence not being able to create/update any departments/roles/employees.. all this application can do is view...
 
-//   * Add departments, roles, employees
-
-//   * View departments, roles, employees
-
-//   * Update employee roles
